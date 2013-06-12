@@ -1,4 +1,4 @@
-videoconference
+Video Conference Web Application
 ===============
 
-Video Conference Web Application in Flash
+Video Conference is a flash based web application. PHP is used as server side language.
